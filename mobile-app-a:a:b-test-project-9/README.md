@@ -25,10 +25,11 @@
 **Используемые `python`-библиотеки:**     
    * `pandas`
    * `numpy`
-   * `seaborn`   
+   * `math`   
    * `matplotlib.pyplot` 
-   * `sklearn`
-   * `scipy`  
+   * `statsmodels.stats.proportion`
+   * `scipy`
+   * `plotly`
    
 ## Итоговый результат:
 Выявил, что предоставленные данные - неполные по времени. Нашёл самые узкие места воронки продаж.  
